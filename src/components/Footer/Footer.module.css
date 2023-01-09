@@ -1,0 +1,16 @@
+.footer {
+    font-size: calc(1.8rem + 0.45vw);
+    margin-block: 1rem;
+
+    color: rgb(255, 0, 0);
+
+
+}
+
+.footer p>a {
+    color: rgb(177, 17, 17);
+}
+
+.footer a:hover {
+    color: rgb(255, 0, 0);
+}

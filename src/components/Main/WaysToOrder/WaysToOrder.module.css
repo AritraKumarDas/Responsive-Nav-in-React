@@ -1,0 +1,24 @@
+.ways-to-order {
+    margin-bottom: 1rem;
+}
+
+.ways-to-order ul {
+    list-style: square;
+    font-size: calc(1.6rem + 0.67vw);
+    margin-left: 4rem;
+    font-weight: 400;
+
+}
+
+
+
+.ways-to-order ul li a {
+    color: rgb(177, 17, 17);
+    font-size: calc(1.6rem + 0.67vw);
+
+}
+
+.ways-to-order ul li a:hover {
+    color: red;
+
+}

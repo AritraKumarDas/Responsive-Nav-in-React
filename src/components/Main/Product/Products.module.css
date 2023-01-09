@@ -1,0 +1,6 @@
+.products ol {
+    margin-left: 4rem;
+    font-size: calc(1.6rem + 0.67vw);
+    font-weight: 400;
+    margin-bottom: 1rem;
+}

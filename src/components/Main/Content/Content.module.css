@@ -1,0 +1,30 @@
+.content {
+
+    display: flex;
+    gap: 2rem;
+    /* background-color: palegoldenrod; */
+    margin-bottom: 2rem;
+}
+
+
+
+.content img {
+
+
+    min-width: 250px;
+    object-fit: cover;
+}
+
+.content p {
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+    font-weight: 400;
+}
+
+@media screen and (max-width:600px) {
+
+    .content {
+        flex-direction: column;
+
+    }
+}
